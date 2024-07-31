@@ -1,6 +1,6 @@
 
 ### 👋🏻 Hi there
-I'm Hendrik Chiche, an Analytics Engineer with a background in Physics. Based in San Francisco I'm currently working with a team of medical and CS students abroad to apply generative AI to medical imaging.
+I'm Hendrik, an Analytics Engineer with a background in Physics. Based in San Francisco I'm currently working with a team of medical and CS students abroad to apply generative AI to medical imaging.
 
 ### 🔭 Core Research Interests
 - **Anomaly detection on multivariate timeseries**  
