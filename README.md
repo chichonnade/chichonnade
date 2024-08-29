@@ -10,7 +10,7 @@ I’m Hendrik, an Analytics Engineer with a strong foundation in Physics, curren
 ### Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=style=flat&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=style=flat&logo=gnu-bash&logoColor=white)
 
 ### Some of the technologies I have worked with
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
