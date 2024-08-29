@@ -5,7 +5,7 @@ I’m Hendrik, an Analytics Engineer with a strong foundation in Physics, curren
 ### 🔭 Architectures I have worked with
 - DDPMs with 3D Unets
 - Transformer architecture for multivariate timeseries data
-- LSTMs autoencoders
+- LSTM autoencoders
 
 ### Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
