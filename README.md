@@ -26,7 +26,6 @@ DDPM with 3D UNet, ViT, DiT
 ![BigQuery](https://img.shields.io/badge/BigQuery-222222?style=flat&logo=google-cloud&logoColor=white)
 
 ### - Libraries
-![JAX](https://img.shields.io/badge/JAX-222222?style=flat&logo=google&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-222222?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-222222?style=flat&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-222222?style=flat&logo=numpy&logoColor=white)
