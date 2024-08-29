@@ -3,9 +3,9 @@
 I’m Hendrik, an Analytics Engineer with a strong foundation in Physics, currently based in San Francisco. I’m collaborating with a team of medical and computer science students internationally to leverage generative AI in medical imaging.|
 
 ### 🔭 Architectures I have worked with
-DDPMs with 3D Unets
-Transformer architecture for multivariate timeseries data
-LSTMs autoencoders
+- DDPMs with 3D Unets
+- Transformer architecture for multivariate timeseries data
+- LSTMs autoencoders
 
 ### Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
