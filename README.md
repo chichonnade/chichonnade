@@ -33,9 +33,8 @@ I’m Hendrik, an Analytics Engineer with a strong foundation in Physics, curren
 
 ### Some of my projects
 
-[![RadarLabeling](https://img.shields.io/badge/-Radar_Labeling-000000?style=flat)](https://github.com/chichonnade/ZendarComputerVisionCapstone)
-[![Super-resolution](https://img.shields.io/badge/-Super_Resolution-000000?style=flat)](https://github.com/chichonnade/MRI-Super-Resolution)
-[![Diffusion sandbox](https://img.shields.io/badge/-Diffusion_sandbox-000000?style=flat)](https://xd00099.github.io/hdsi_faculty_tool/)
+[![RadarLabeling](https://img.shields.io/badge/-Radar_Labeling-000000?style=flat)](https://chichonnade.github.io/posts/radar-object-labelling-for-autonomous-driving/)
+[![Super-resolution](https://img.shields.io/badge/-Super_Resolution-000000?style=flat)](https://chichonnade.github.io/posts/mri-super-resolution/)
 
 ##### Contact me:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hendrikchiche@gmail.com)
