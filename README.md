@@ -24,6 +24,7 @@ DDPM with 3D UNet, ViT, DiT
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-222222?style=flat&logo=jupyter&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-222222?style=flat&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-222222?style=flat&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-222222?style=flat&logo=google-cloud&logoColor=white)
 
 ### - Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-222222?style=flat&logo=tensorflow&logoColor=white)
