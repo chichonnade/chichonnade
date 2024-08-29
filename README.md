@@ -1,14 +1,9 @@
 
 ### 👋🏻 Hi there
-I'm Hendrik, an Analytics Engineer with a background in Physics. Based in San Francisco I'm currently working with a team of medical and CS students abroad to apply generative AI to medical imaging.
+I’m Hendrik, an Analytics Engineer with a strong foundation in Physics, currently based in San Francisco. I’m collaborating with a team of medical and computer science students internationally to leverage generative AI in medical imaging.|
 
-### 🔭 Core Research Interests
-- **Anomaly detection on multivariate timeseries**  
-LSTM autoencoders, Transformer autoencoders.
-- **Unsupervised learning**  
-DDPM, LDM, VAE
-- **Unsupervised learning in 3D**  
-DDPM with 3D UNet, ViT, DiT
+### 🔭 Research focus
+DDPMs with 3D Unets, Multivariate timeseries analysis using transformers
 
 ### Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
