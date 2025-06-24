@@ -13,9 +13,6 @@ I’m Hendrik, an Analytics Engineer with a strong foundation in Physics, curren
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=style=flat&logo=gnu-bash&logoColor=white)
 
 ### Some of the technologies I have worked with
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![GitLab](https://img.shields.io/badge/gitlab-222222?style=flat&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![JIRA](https://img.shields.io/badge/JIRA-222222?style=flat&logo=jira&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-222222?style=flat&logo=jupyter&logoColor=white)
@@ -24,7 +21,6 @@ I’m Hendrik, an Analytics Engineer with a strong foundation in Physics, curren
 ![GCP](https://img.shields.io/badge/GCP-222222?style=flat&logo=google-cloud&logoColor=white)
 
 ### - Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-222222?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-222222?style=flat&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-222222?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-222222?style=flat&logo=pandas&logoColor=white)
