@@ -1,6 +1,6 @@
 
 ### 👋🏻 Hi there
-I’m Hendrik, an Analytics Engineer with a strong foundation in Physics, currently based in San Francisco. I’m collaborating with a team of medical and computer science students internationally to leverage generative AI in medical imaging.|
+I’m Hendrik, an Analytics Engineer with a strong foundation in Physics, currently based in San Francisco. I’m collaborating with a team of medical and computer science students to leverage generative AI for medical imaging.|
 
 ### 🔭 Architectures I have worked with
 - DDPMs with 3D Unets
@@ -14,9 +14,7 @@ I’m Hendrik, an Analytics Engineer with a strong foundation in Physics, curren
 
 ### Some of the technologies I have worked with
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![JIRA](https://img.shields.io/badge/JIRA-222222?style=flat&logo=jira&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-222222?style=flat&logo=jupyter&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-222222?style=flat&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-222222?style=flat&logo=google-cloud&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-222222?style=flat&logo=google-cloud&logoColor=white)
 
