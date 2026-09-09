@@ -1,8 +1,7 @@
 
 ### 👋🏻 Hi there
-I’m Hendrik, I have a background in data science and mechanical engineering
 
-### 🔭 Architectures I have worked with
+### Some things I have worked with
 - DDPMs with 3D Unets
 - Transformer architecture for multivariate timeseries data
 - LSTM autoencoders
