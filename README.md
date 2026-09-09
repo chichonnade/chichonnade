@@ -1,6 +1,6 @@
 
 ### 👋🏻 Hi there
-I’m Hendrik, I have a background in data science and mechanical engineering and I'm interested in the fields of data collection for robotics.
+I’m Hendrik, I have a background in data science and mechanical engineering
 
 ### 🔭 Architectures I have worked with
 - DDPMs with 3D Unets
@@ -23,11 +23,6 @@ I’m Hendrik, I have a background in data science and mechanical engineering an
 ![Pandas](https://img.shields.io/badge/pandas-222222?style=flat&logo=pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-222222?style=flat&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-222222?style=flat&logo=Matplotlib&logoColor=black)
-
-### Some of my projects
-
-[![RadarLabeling](https://img.shields.io/badge/-Radar_Labeling-000000?style=flat)](https://chichonnade.github.io/posts/radar-object-labelling-for-autonomous-driving/)
-[![Super-resolution](https://img.shields.io/badge/-Super_Resolution-000000?style=flat)](https://chichonnade.github.io/posts/mri-super-resolution/)
 
 ##### Contact me:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hendrikchiche@gmail.com)
